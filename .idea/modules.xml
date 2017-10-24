@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/service-ribbon/service-ribbon.iml" filepath="$PROJECT_DIR$/service-ribbon/service-ribbon.iml" />
       <module fileurl="file://$PROJECT_DIR$/service-zuul/service-zuul.iml" filepath="$PROJECT_DIR$/service-zuul/service-zuul.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-client/spring-cloud-client.iml" filepath="$PROJECT_DIR$/spring-cloud-client/spring-cloud-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-client-miya/spring-cloud-client-miya.iml" filepath="$PROJECT_DIR$/spring-cloud-client-miya/spring-cloud-client-miya.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-client-zipkin/spring-cloud-client-zipkin.iml" filepath="$PROJECT_DIR$/spring-cloud-client-zipkin/spring-cloud-client-zipkin.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/spring-cloud-demo.iml" filepath="$PROJECT_DIR$/.idea/spring-cloud-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-server/spring-cloud-server.iml" filepath="$PROJECT_DIR$/spring-cloud-server/spring-cloud-server.iml" />
