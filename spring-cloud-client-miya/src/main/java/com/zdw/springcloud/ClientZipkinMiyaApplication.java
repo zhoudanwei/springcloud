@@ -46,7 +46,7 @@ public class ClientZipkinMiyaApplication {
     public String info() {
         logger.log(Level.INFO, "调用 Trace,来自: Client-Zipkin");
 
-        return "我是 Client-Zipkin";
+        return "我是 Client-Miya";
 
     }
 
